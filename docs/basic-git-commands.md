@@ -20,13 +20,15 @@ cd ~/GitHub/marcos-kitchen
 git status
 ```
 
-### 3. Inspect the changes
+### 3. Inspect unstaged changes
 
 ```bash
 git diff
 ```
 
-### 4. Stage a specific file
+### 4. Stage changes
+
+Stage a specific file:
 
 ```bash
 git add path/to/recipe.md
@@ -38,13 +40,19 @@ Example:
 git add cocktails/negroni.md
 ```
 
-To stage all changes:
+Stage a directory:
+
+```bash
+git add docs/
+```
+
+Stage everything from the current directory downward:
 
 ```bash
 git add .
 ```
 
-Using a specific filename is safer when you want precise control over a commit.
+Use `git add .` when everything shown by `git status` belongs in the same commit. Otherwise, stage specific files or directories.
 
 ### 5. Confirm what is staged
 
@@ -58,6 +66,14 @@ git status
 git diff --staged
 ```
 
+If Git opens the diff in a pager and shows `(END)`, press:
+
+```text
+q
+```
+
+to return to the command prompt.
+
 ### 7. Commit the changes
 
 ```bash
@@ -70,6 +86,54 @@ Use a short message describing what changed.
 
 ```bash
 git push
+```
+
+## Staging and Unstaging
+
+### Unstage a file without deleting your changes
+
+```bash
+git restore --staged path/to/file
+```
+
+Example:
+
+```bash
+git restore --staged .DS_Store
+```
+
+This removes the file from the staging area but leaves the file itself unchanged.
+
+### Discard an uncommitted change to a tracked file
+
+```bash
+git restore path/to/file.md
+```
+
+**Warning:** This discards the uncommitted edits in that file.
+
+## Ignoring Files with `.gitignore`
+
+Some local files should never be committed. On macOS, `.DS_Store` is a common example.
+
+Create or add to `.gitignore`:
+
+```bash
+echo ".DS_Store" >> .gitignore
+```
+
+Then stage the `.gitignore` file:
+
+```bash
+git add .gitignore
+```
+
+Git will ignore future untracked `.DS_Store` files.
+
+A useful starter `.gitignore` for this repository is:
+
+```gitignore
+.DS_Store
 ```
 
 ## Other Useful Commands
@@ -86,6 +150,12 @@ git pull
 git log --oneline
 ```
 
+A more visual history:
+
+```bash
+git log --oneline --graph --decorate
+```
+
 ### View branches
 
 ```bash
@@ -94,13 +164,13 @@ git branch
 
 The branch marked with `*` is the current branch.
 
-### Discard an uncommitted change to a tracked file
+### Check whether local and GitHub are synchronized
 
 ```bash
-git restore path/to/file.md
+git status -sb
 ```
 
-**Warning:** `git restore` discards the uncommitted edits in that file.
+If `main` and `origin/main` are synchronized, there will be no `ahead` or `behind` indicator.
 
 ## Mental Model
 
@@ -109,14 +179,27 @@ Working Files  →  Staging Area  →  Local Git History  →  GitHub
                  git add           git commit            git push
 ```
 
-For normal Marco's Kitchen updates, the sequence is:
+For normal Marco's Kitchen updates:
 
 ```bash
 git status
 git diff
+
 git add path/to/file.md
+
 git status
 git diff --staged
+
 git commit -m "Describe the change"
 git push
 ```
+
+## Good Habits
+
+- Run `git status` frequently.
+- Use `git diff` before staging.
+- Use `git diff --staged` before committing.
+- Use `git add .` only when all current changes belong together.
+- Keep commits focused on one logical change.
+- Write commit messages that describe what changed.
+- Use `.gitignore` for machine-specific or generated files that do not belong in the repository.

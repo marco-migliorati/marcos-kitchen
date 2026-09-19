@@ -3,7 +3,7 @@
 **Status:** ⭐ Gold Star  
 **Last Tested:** 2026  
 **Yield:** 2 loaves  
-**Category:** Breads  
+**Category:** Breads
 
 ## Levain
 
@@ -62,8 +62,8 @@ Feed the starter. Approximately 4 hours later, begin the autolyse.
 ### Maine - Convection Oven
 
 1. Preheat the oven to 450°F convection.
-2. Bake covered for 30 minutes.
-3. Remove the covers and reduce the oven to 425°F.
+2. Bake the loaves covered for 30 minutes.
+3. Remove the covers and reduce the oven temperature to 425°F.
 4. Bake uncovered for 12 minutes.
 5. Rotate the pans.
 6. Bake for another 12 minutes, or until deeply browned and fully baked.
@@ -84,9 +84,9 @@ Feed the starter. Approximately 4 hours later, begin the autolyse.
 
 ## Notes
 
-- All 680 g of water goes into the autolyse. An earlier source method reserved 50 g, but the all-at-once method is the tested preference.
+- All 680 g of water goes into the autolyse. The source boule recipe reserves part of the water, but the all-at-once method is the tested preference for this pan loaf.
 - Grease the loaf pans thoroughly.
-- This pan loaf evolved from a boule-style sourdough formula, but is maintained as its own recipe.
+- This pan loaf evolved from a boule-style sourdough formula but is maintained as its own recipe.
 
 ## Results
 

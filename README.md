@@ -47,7 +47,7 @@ The Food ChatGPT Project is the development and historical workspace. This repos
 
 ## Sides & Salads
 
-- [Horiatiki Salad](sides/horiatiki-salad.md) - 🧪 Testing
+- Horiatiki Salad - pending
 - Shorbat Adas - pending
 - Cuban Yellow Rice - pending
 - Mexican Vinegar Lettuce - pending
@@ -58,6 +58,14 @@ The Food ChatGPT Project is the development and historical workspace. This repos
 - Mashed Red Norland Potatoes - pending
 - New Potato, Corn, Leek & Sausage Hash - pending
 - Brazilian-Style Sautéed Kale - pending
+
+## Techniques
+
+- [Pickling & Salting Quick Reference](techniques/pickling-and-salting.md)
+
+## Documentation
+
+- [Basic Git CLI Commands](docs/basic-git-commands.md)
 
 ## Workflow
 

@@ -37,26 +37,30 @@ The Food ChatGPT Project is the development and historical workspace. This repos
 - Onion Masala - pending
 - Chana Masala - pending
 
-## Other Recipe Candidates
+## Mains
 
-- Horiatiki Salad
-- Shorbat Adas
-- Cuban Yellow Rice
-- Mexican Vinegar Lettuce
-- Fire-Roasted Vinegar Peppers
-- Italian Marinated Mushrooms
-- Hawaiian Pineapple Chicken Marinade
-- Teriyaki Sauce
-- Babaganoush
-- Mashed Red Norland Potatoes
-- New Potato, Corn, Leek & Sausage Hash
-- Brazilian-Style Sautéed Kale
-- Pan-Fried Shrimp
-- Carbonara
-- Grilled Skirt Steak with Chimichurri
+- [Tavuk Şiş](mains/tavuk-sis.md) - 🧪 Testing
+- Pan-Fried Shrimp - pending
+- Carbonara - pending
+- Grilled Skirt Steak with Chimichurri - pending
+- Hawaiian Pineapple Chicken - pending
+
+## Sides & Salads
+
+- [Horiatiki Salad](sides/horiatiki-salad.md) - 🧪 Testing
+- Shorbat Adas - pending
+- Cuban Yellow Rice - pending
+- Mexican Vinegar Lettuce - pending
+- Fire-Roasted Vinegar Peppers - pending
+- Italian Marinated Mushrooms - pending
+- Teriyaki Sauce - pending
+- Babaganoush - pending
+- Mashed Red Norland Potatoes - pending
+- New Potato, Corn, Leek & Sausage Hash - pending
+- Brazilian-Style Sautéed Kale - pending
 
 ## Workflow
 
-Cook → Discuss/Test → Approve Change → Update Markdown → Commit → Push
+Cook → Discuss/Test → Approve Change → Update Recipe Markdown → Update README Index → Commit → Push
 
 Git history is the recipe changelog.

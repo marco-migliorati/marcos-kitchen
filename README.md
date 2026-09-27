@@ -39,6 +39,7 @@ _No recipes yet._
 ## Mains
 
 - [Carbonara](mains/carbonara.md) - ⭐ Gold Star
+- [Cornflake-Crusted Chicken Parmesan](mains/cornflake-crusted-chicken-parmesan.md) - ⭐ Gold Star
 - [Hawaiian Pineapple Grilled Chicken](mains/hawaiian-pineapple-chicken.md) - ⭐ Gold Star
 - [Tavuk Şiş](mains/tavuk-sis.md) - ⭐ Gold Star
 

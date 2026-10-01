@@ -63,6 +63,7 @@ _No recipes yet._
 - [Pimento Cheese](sides/pimento-cheese.md) - ⭐ Gold Star
 - [Mashed Red Norland Potatoes](sides/red-norland-mashed-potatoes.md) - ⭐ Gold Star
 - [Solomonov-Style Hummus](sides/solomonov-style-hummus.md) - ⭐ Gold Star
+- [Whipped Feta with Pistachios](sides/whipped-feta.md) - ⭐ Gold Star
 
 ## Soups
 

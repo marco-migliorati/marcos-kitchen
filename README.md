@@ -60,6 +60,7 @@ _No recipes yet._
 - [Cuban Yellow Rice](sides/cuban-yellow-rice.md) - ⭐ Gold Star
 - [Fire-Roasted Vinegar Peppers](sides/fire-roasted-vinegar-peppers.md) - ⭐ Gold Star
 - [Horiatiki Salad](sides/horiatiki-salad.md) - ⭐ Gold Star
+- [Mashed Butternut Squash](sides/mashed-butternut-squash.md) - ✅ Approved
 - [Pimento Cheese](sides/pimento-cheese.md) - ⭐ Gold Star
 - [Mashed Red Norland Potatoes](sides/red-norland-mashed-potatoes.md) - ⭐ Gold Star
 - [Solomonov-Style Hummus](sides/solomonov-style-hummus.md) - ⭐ Gold Star

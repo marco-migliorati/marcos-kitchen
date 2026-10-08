@@ -15,6 +15,7 @@ Rather than keeping scattered notes and copies, I use Git to track those changes
 ## Breads
 
 - [Sourdough Boule](breads/sourdough-boule.md)
+- [Sourdough Einkorn Pan Loaf](breads/sourdough-einkorn-pan-loaf.md) - 🧪 Testing
 - [Sourdough Pan Loaf](breads/sourdough-pan-loaf.md)
 - [Sourdough Pizza Dough](breads/sourdough-pizza-dough.md) - 🧪 Testing
 - [Sourdough Schiacciata](breads/sourdough-schiacciata.md) - 🧪 Testing

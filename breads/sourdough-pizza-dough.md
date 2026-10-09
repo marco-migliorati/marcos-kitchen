@@ -1,6 +1,6 @@
 # Sourdough Pizza Dough
 
-**Status:** 🧪 Testing  
+**Status:** ⭐ Gold Star  
 **Yield:** 3-4 pizzas  
 **Category:** Breads
 
@@ -42,4 +42,4 @@
 ## Results
 
 - The fermentation formula is based on the previously tested sourdough pizza dough.
-- Ooni baking is the current method and remains 🧪 Testing until the first Ooni bake is evaluated.
+- Ooni baking is the current method and still awaits evaluation of the first Ooni bake. **Gold Star status does not indicate that the Ooni-specific method has been validated.**

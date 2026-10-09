@@ -1,6 +1,6 @@
 # Sourdough Boule
 
-**Status:** 🧪 Testing  
+**Status:** ⭐ Gold Star  
 **Last Tested:**  
 **Yield:** 2 boules  
 **Category:** Breads
@@ -26,7 +26,7 @@
 
 This file preserves the boule-style ancestor of the Sourdough Pan Loaf. The original method includes autolyse, levain incorporation, strength-building folds, boule shaping, banneton proofing, and Dutch-oven baking.
 
-The exact canonical Marco's Kitchen boule method still needs to be reconstructed and reviewed before this recipe is marked Approved.
+The exact canonical Marco's Kitchen boule method still needs to be reconstructed and reviewed. **Documentation remains incomplete despite the Gold Star designation.**
 
 ## Baking / Cooking
 

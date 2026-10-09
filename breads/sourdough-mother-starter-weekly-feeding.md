@@ -1,6 +1,6 @@
 # Sourdough Mother Starter - Weekly Feeding
 
-**Status:** 🧪 Testing - Einkorn Blend  
+**Status:** ⭐ Gold Star - Einkorn Blend  
 **Last Tested:** October 2026 - first einkorn feeding planned  
 **Yield:** 100 g starter (scalable)  
 **Category:** Breads / Techniques  

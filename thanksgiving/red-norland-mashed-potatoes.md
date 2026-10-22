@@ -3,7 +3,7 @@
 **Status:** ⭐ Gold Star  
 **Last Tested:** 2026-08-28  
 **Yield:** About 4-6 servings  
-**Category:** Sides & Salads
+**Category:** Thanksgiving
 
 ## Ingredients
 

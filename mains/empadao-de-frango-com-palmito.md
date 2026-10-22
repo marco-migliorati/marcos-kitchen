@@ -4,9 +4,12 @@
 **Category:** Mains
 
 ## Mayonnaise crust
-Two versions appear in the original notes; **the preferred exact ratio still needs confirmation**:
-- Version A: 2 cups flour + 1½ cups mayonnaise
-- Version B: 2½ cups flour + 1¾ cups mayonnaise, salt and pepper to taste
+**Selected house standard (not yet retested):**
+- **2½ cups all-purpose flour**
+- **1¾ cups mayonnaise**
+- Salt and pepper to taste
+
+The original notes also contain an alternate ratio of 2 cups flour to 1½ cups mayonnaise. The two ratios are close; the larger, slightly firmer version is selected provisionally for its more detailed baking instructions. Adjust flour as needed for a cohesive, rollable dough.
 
 ### Crust method
 1. Mix flour and mayonnaise into a cohesive dough. Chill for **30 minutes**.

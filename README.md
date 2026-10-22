@@ -54,6 +54,7 @@ _No recipes yet._
 - [Empadão de Frango com Palmito](mains/empadao-de-frango-com-palmito.md) - ⭐ Gold Star
 - [Lasagna with Béchamel](mains/lasagna.md) - ⭐ Gold Star
 - [Creamy Fettuccine Alfredo](mains/alfredo-sauce.md) - ⭐ Gold Star
+- [Chana Masala with Instant Pot Onion Masala](mains/chana-masala-with-onion-masala.md) - ⭐ Gold Star
 
 ## Pickling & Salting
 
@@ -81,6 +82,7 @@ _No recipes yet._
 - [Solomonov-Style Hummus](sides/solomonov-style-hummus.md) - ⭐ Gold Star
 - [Whipped Feta with Pistachios](sides/whipped-feta-with-pistachios.md) - ⭐ Gold Star
 - [Water-First Sautéed Mushrooms](sides/water-first-sauteed-mushrooms.md) - ✅ Approved
+- [Brazilian Vinagrete](sides/brazilian-vinagrete.md) - ⭐ Gold Star
 
 ## Soups
 
@@ -93,6 +95,7 @@ _No recipes yet._
 - [Green Bean Casserole (Babish-Inspired)](thanksgiving/green-bean-casserole.md) - ⭐ Gold Star
 - [Mashed Red Norland Potatoes](thanksgiving/red-norland-mashed-potatoes.md) - ⭐ Gold Star
 - [Thanksgiving Cooking Timeline](thanksgiving/cooking-timeline.md) - 🧪 Planning draft
+- [Baked Mac & Cheese (Babish)](thanksgiving/baked-mac-and-cheese.md) - 🧪 Testing
 
 ## Documentation
 

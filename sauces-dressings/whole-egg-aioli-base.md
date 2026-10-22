@@ -9,7 +9,7 @@
 - 1 tbsp white wine vinegar
 - 1 tbsp lemon juice
 - Salt and pepper
-- Neutral oil or mild olive oil, **amount to be confirmed** (not recorded in the original base note)
+- Neutral oil and olive oil, **approximately half of each**, added by eye (about 1 cup combined as an optional starting reference)
 - Optional: cayenne, red pepper flakes
 
 ### Garlic variation
@@ -25,13 +25,14 @@
 
 ## Method
 1. Add whole egg, Dijon, vinegar, lemon, and seasonings to a **tall, narrow container**.
-2. Add oil. Place the immersion-blender head firmly on the bottom.
-3. Blend without lifting until a thick emulsion forms at the base; then **slowly raise** the blender to incorporate the remaining oil.
-4. Taste and adjust acidity and salt.
-5. For garlic aioli, add garlic paste and blend briefly. For cilantro aioli, blend the listed variation ingredients into ½ cup finished base.
+2. **Add all the oil to the cup before blending**, using roughly equal amounts of neutral and olive oil. Place the immersion-blender head firmly on the bottom.
+3. Blend without lifting until a thick emulsion forms at the base; then **slowly raise** the blender to incorporate the oil already in the cup. **Do not drizzle the oil in while blending.**
+4. If the mixture needs to thicken, add more oil and blend again.
+5. Taste and adjust acidity and salt.
+6. For garlic aioli, add garlic paste and blend briefly. For cilantro aioli, blend the listed variation ingredients into ½ cup finished base.
 
 ## Uses
 Keep plain for pimento cheese or dressings; add garlic for aioli.
 
 ## Food safety
-This contains raw egg. Use pasteurized eggs when serving people at higher risk of foodborne illness, and refrigerate promptly. The oil quantity remains an explicit item to confirm.
+This contains raw egg. Use pasteurized eggs when serving people at higher risk of foodborne illness, and refrigerate promptly. The amount of oil is intentionally not measured: use the texture as the guide. The entire initial amount goes into the cup **before** the immersion blender is switched on.

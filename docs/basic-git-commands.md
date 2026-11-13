@@ -66,6 +66,10 @@ git status
 git diff --staged
 ```
 
+```bash
+git diff --staged --stat
+```
+
 If Git opens the diff in a pager and shows `(END)`, press:
 
 ```text

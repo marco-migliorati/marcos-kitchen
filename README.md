@@ -55,6 +55,7 @@ _No recipes yet._
 - [Lasagna with Béchamel](mains/lasagna.md) - ⭐ Gold Star
 - [Creamy Fettuccine Alfredo](mains/alfredo-sauce.md) - ⭐ Gold Star
 - [Chana Masala with Instant Pot Onion Masala](mains/chana-masala-with-onion-masala.md) - ⭐ Gold Star
+- - [Smoked Chivalini Sausage](mains/smoked-chivalini-sausage.md) - ⭐ Gold Star
 
 ## Pickling & Salting
 
@@ -66,10 +67,10 @@ _No recipes yet._
 - [Chimichurri](sauces-dressings/chimichurri.md) - ⭐ Gold Star
 - [Russian Dressing](sauces-dressings/russian-dressing.md) - ⭐ Gold Star
 - [Teriyaki Sauce](sauces-dressings/teriyaki-sauce.md) - ⭐ Gold Star
-- [Whole-Egg Aioli / Mayonnaise Base](sauces-dressings/whole-egg-aioli-base.md) - ✅ Approved
+- [Whole-Egg Aioli / Mayonnaise Base](sauces-dressings/whole-egg-aioli-base.md) - ⭐ Gold Star
 - [Assiette Tunisienne Dressing](sauces-dressings/assiette-tunisienne-dressing.md) - ⭐ Gold Star
 - [Corinne's Kale Caesar Dressing](sauces-dressings/corinnes-kale-caesar.md) - ⭐ Gold Star
-- [Blue Cheese Dressing](sauces-dressings/blue-cheese-dressing.md) - ✅ Approved
+- [Blue Cheese Dressing](sauces-dressings/blue-cheese-dressing.md) - ⭐ Gold Star
 
 ## Sides
 
@@ -81,7 +82,7 @@ _No recipes yet._
 - [Pimento Cheese](sides/pimento-cheese.md) - ⭐ Gold Star
 - [Solomonov-Style Hummus](sides/solomonov-style-hummus.md) - ⭐ Gold Star
 - [Whipped Feta with Pistachios](sides/whipped-feta-with-pistachios.md) - ⭐ Gold Star
-- [Water-First Sautéed Mushrooms](sides/water-first-sauteed-mushrooms.md) - ✅ Approved
+- [Water-First Sautéed Mushrooms](sides/water-first-sauteed-mushrooms.md) - ⭐ Gold Star
 - [Brazilian Vinagrete](sides/brazilian-vinagrete.md) - ⭐ Gold Star
 
 ## Soups
@@ -95,11 +96,15 @@ _No recipes yet._
 - [Green Bean Casserole (Babish-Inspired)](thanksgiving/green-bean-casserole.md) - ⭐ Gold Star
 - [Mashed Red Norland Potatoes](thanksgiving/red-norland-mashed-potatoes.md) - ⭐ Gold Star
 - [Thanksgiving Cooking Timeline](thanksgiving/cooking-timeline.md) - 🧪 Planning draft
-- [Baked Mac & Cheese (Babish)](thanksgiving/baked-mac-and-cheese.md) - 🧪 Testing
+- [Baked Mac & Cheese (Babish)](thanksgiving/baked-mac-and-cheese.md) - ⭐ Gold Star
 
 ## Documentation
 
 - [Basic Git CLI Commands](docs/basic-git-commands.md)
+
+## Techniques
+
+- [Traeger Flatrock Cleaning & Maintenance](techniques/traeger-flatrock-cleaning.md)
 
 ## Templates
 

@@ -90,6 +90,7 @@ Rather than keeping scattered notes and copies, I use Git to track those changes
 
 - [Shorbat Adas](soups/shorbat-adas.md) - ⭐ Gold Star
 - [Pasta e Fagioli](soups/pasta-e-fagioli.md) - ⭐ Gold Star
+- [Meme's Chicken Soup](soups/memes-chicken-soup.md) - ⭐ Gold Star
 
 ## Thanksgiving
 

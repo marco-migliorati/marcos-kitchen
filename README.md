@@ -24,7 +24,7 @@ Rather than keeping scattered notes and copies, I use Git to track those changes
 
 ## Breakfast
 
-_No recipes yet._
+- [Buttermilk Sourdough Discard Pancakes](breakfast/buttermilk-sourdough-discard-pancakes.md) - 🧪 Testing
 
 ## Cocktails
 
@@ -55,7 +55,9 @@ _No recipes yet._
 - [Lasagna with Béchamel](mains/lasagna.md) - ⭐ Gold Star
 - [Creamy Fettuccine Alfredo](mains/alfredo-sauce.md) - ⭐ Gold Star
 - [Chana Masala with Instant Pot Onion Masala](mains/chana-masala-with-onion-masala.md) - ⭐ Gold Star
-- - [Smoked Chivalini Sausage](mains/smoked-chivalini-sausage.md) - ⭐ Gold Star
+- [Smoked Chivalini Sausage](mains/smoked-chivalini-sausage.md) - ⭐ Gold Star
+- [Spaghetti Aglio, Olio e Peperoncino](mains/spaghetti-aglio-olio-e-peperoncino.md) - 🧪 Testing
+- [Traeger Lemon-Paprika Smoked Chicken](mains/traeger-lemon-paprika-smoked-chicken.md) - 🧪 Testing
 
 ## Pickling & Salting
 

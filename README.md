@@ -47,7 +47,6 @@ Rather than keeping scattered notes and copies, I use Git to track those changes
 - [Mama Marco's Turkey Meatballs](mains/mama-marcos-turkey-meatballs.md) - ⭐ Gold Star
 - [Tavuk Şiş](mains/tavuk-sis.md) - ⭐ Gold Star
 - [Chicken Piccata](mains/chicken-piccata.md) - ⭐ Gold Star
-- [Pasta e Fagioli](mains/pasta-e-fagioli.md) - ⭐ Gold Star
 - [Fresh Pasta Dough](mains/fresh-pasta-dough.md) - ⭐ Gold Star
 - [Cold-Pan Salmon](mains/cold-pan-salmon.md) - ✅ Approved
 - [Turkey Meatloaf (ATK-Inspired)](mains/turkey-meatloaf-atk.md) - ⭐ Gold Star
@@ -90,6 +89,7 @@ Rather than keeping scattered notes and copies, I use Git to track those changes
 ## Soups
 
 - [Shorbat Adas](soups/shorbat-adas.md) - ⭐ Gold Star
+- [Pasta e Fagioli](mains/pasta-e-fagioli.md) - ⭐ Gold Star
 
 ## Thanksgiving
 

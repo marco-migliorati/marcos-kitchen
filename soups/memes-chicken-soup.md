@@ -8,9 +8,9 @@ A comforting, tomato-based chicken soup passed down from Meme, Coco's French Can
 
 ## Ingredients
 
-- 1 onion
-- 1 medium carrot
-- 1 rib celery
+- 1 onion, roughly chopped
+- 1 medium carrot, roughly chopped
+- 1 rib celery, roughly chopped
 - 2 cloves garlic, minced
 - 2 boneless, skinless chicken breasts
 - 3 tbsp olive oil, divided (2 tbsp for vegetables; 1 tbsp for chicken)
